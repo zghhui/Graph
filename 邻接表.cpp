@@ -1,3 +1,5 @@
+//аз╫с╠М
+//
 #include<iostream>
 using namespace std;
 const int MaxNum = 100;
