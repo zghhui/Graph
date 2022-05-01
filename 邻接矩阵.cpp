@@ -1,3 +1,5 @@
+//邻接矩阵方式实现图的存储
+
 #include<iostream>
 using namespace std;
 const int MaxN =100;
