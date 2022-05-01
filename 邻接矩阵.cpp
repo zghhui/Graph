@@ -1,5 +1,5 @@
 //邻接矩阵方式实现图的存储
-
+//设置图节点 边结构 首先创建只有节点的空图
 #include<iostream>
 using namespace std;
 const int MaxN =100;
